@@ -14,7 +14,21 @@ A simple and interactive Quiz App built with React.js.
 - **Multiple choice**: questions
 - **Score**: tracking
 - **Timer**: for each question
-- **Responsiv**:e design
+- **Responsive**: design
 - **Easy to add new**: questions
+
+## Installation
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/yourusername/quiz-app.git
+Navigate to the project directory:
+bash
+Copy code
+cd quiz-app
+Install the dependencies:
+bash
+Copy code
+npm install
 
 
